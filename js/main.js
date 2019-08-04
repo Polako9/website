@@ -1,7 +1,7 @@
 //togle shar-it
 var sharethis = document.getElementById('show'),
     toggle = document.getElementById('toggle');
-        
+        // add smile :) because my knowledge about programing is to low thaht is hard to change anything
   sharethis.addEventListener('click', function(){
         toggle.style.display =  (toggle.style.display == 'none') ? 'flex' : 'none';
   });
